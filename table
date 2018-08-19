@@ -1,0 +1,19 @@
+Noticia
+-id
+-id_assunto
+-legenda
+-resumo
+-descricao
+-imagem
+-data, hora
+-views
+
+opiniao_noticia
+-id_noticia
+-bom
+-neutro
+-ruim
+
+Assunto
+-id
+-nome
